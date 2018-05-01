@@ -1,10 +1,10 @@
-## Gatherer Bugs
+# Gatherer Bugs
 
 This public repository tracks bugs affecting data and interface tools on <https://gatherer.wizards.com>.
 
 ### How to Report Bugs
 
-1. **IMPORTANT:** This GitHub issue tracker is only for collaborating on bug reports in the open. **Report the issue to https://wizards.custhelp.com/app/ask first, before you submit it to this repository**. WotC cannot fix bugs on Gatherer that they do not know about.
+1. **IMPORTANT: Report the issue to https://wizards.custhelp.com/app/ask first, before you submit it to this repository. WotC cannot fix bugs on Gatherer that they do not know about.**
 2. Submit an issue here describing the problem.
 3. Please provide links to Gatherer where someone can see the problem. Provide screenshots if needed.
 3. Add your WotC incident ID to your message from step 1.
