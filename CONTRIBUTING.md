@@ -8,6 +8,4 @@
 
 ### Code of Conduct
 
-Your work here is covered under the [Scryfall Terms of Service](https://scryfall.com/docs/terms). Conversations on this issue tracker should be respectful and on-topic.
-
-Specifically: This is not a place to attack WotC or complain unproductively about any of their websites, games, or staff members.
+Your behavior here is covered under the [Scryfall rules for Acceptable Use](https://scryfall.com/docs/terms#acceptable-use). Conversations on this issue tracker should be respectful and on-topic. Specifically: This is not a place to attack WotC or complain unproductively about any of their websites, games, or staff members.
