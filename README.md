@@ -5,10 +5,10 @@ This public repository tracks bugs affecting data and interface tools on <https:
 ### How to Report Bugs
 
 1. **IMPORTANT:** WotC cannot fix bugs on Gatherer that they do not know about. Please report the issue to https://magic-support.wizards.com/hc/en-us/requests/new first. 
-     - At the moment you should use the "Rules Question" category ([source](https://twitter.com/Wizards_Help/status/1029489958367588352))
-2. Submit an issue here describing the problem.
+     - Use the  "Gatherer Feedback" category
+2. Submit a copy of the issue on this GitHub project describing the problem.
 3. Please provide links to Gatherer where someone can see the problem. Provide screenshots if needed.
-3. Add your Submission Number to your message from step 1.
+3. Add your Submission Number or other support to your message from step 1.
 4. Close the issue when you notice that WotC has fixed the problem.
 
 ### Code of Conduct
