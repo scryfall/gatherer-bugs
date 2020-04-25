@@ -4,8 +4,8 @@ This public repository tracks bugs affecting data and interface tools on <https:
 
 ### How to Report Bugs
 
-1. **IMPORTANT:** WotC cannot fix bugs on Gatherer that they do not know about. Please report the issue to https://magic-support.wizards.com/hc/en-us/requests/new first. 
-     - Use the  "Gatherer Feedback" category
+1. **IMPORTANT:** WotC cannot fix bugs on Gatherer that they do not know about. Please report the issue to https://magic-support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000421811 first.
+     - If you are unable to select the "Gatherer Feedback" category for some reason, make sure your ticket is clearly labeled that it's for Gatherer
 2. Submit a copy of the issue on this GitHub project describing the problem.
 3. Please provide links to Gatherer where someone can see the problem. Provide screenshots if needed.
 3. Add your Submission Number or other support to your message from step 1.
