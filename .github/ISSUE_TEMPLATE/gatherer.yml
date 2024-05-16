@@ -8,8 +8,7 @@ body:
     value: |
       This form is for reporting errors seen on [Gatherer](https://gatherer.wizards.com/), the online Oracle card reference for *Magic: the Gathering*.
 
-      Gatherer is now over 20 years old and experiences significant growing pains keeping up with the game's current state. Small errors are expected from time to time.
-      You can help us keep track of them here so they're available for reference and to help us raise them to the attention of Wizards of the Coast.
+      Gatherer is now over 20 years old and experiences significant growing pains keeping up with the game's current state. Small errors are expected from time to time. You can help us keep track of them here so they're available for reference and to help us raise them to the attention of Wizards of the Coast.
 
       If you have issues or questions about Scryfall itself or its API, you instead want [our contact form](https://scryfall.com/contact).
 - type: textarea
