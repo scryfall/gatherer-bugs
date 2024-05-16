@@ -1,0 +1,22 @@
+---
+name: Gatherer Bug
+description: Submit a Gatherer bug
+labels: ["gatherer"]
+body:
+- type: textarea
+  id: problem
+  attributes:
+    label: Describe the problem
+    description: "Include screenshots and directions to the problematic page(s) if applicable"
+    placeholder: |
+      On the page for Hunted Wumpus, there's a problem with ...
+      
+      See here: https://gatherer.wizards.com/Pages/...
+  validations:
+    required: true
+- type: input
+  id: reference
+  attributes:
+    label: WotC report reference (optional)
+    description: If you reported this to WotC already and received a report link or reference number, please include it here.
+---
