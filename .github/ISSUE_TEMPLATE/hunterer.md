@@ -1,6 +1,6 @@
 name: Hunterer/Companion bug
-about: Submit a bug with the Hunterer database or Companion app that you've reported to WotC
-labels: hunterer/companion
+description: Submit a bug with the Hunterer database or Companion app
+labels: ["hunterer/companion"]
 body:
 - type: textarea
   id: problem
