@@ -2,6 +2,14 @@ name: Hunterer/Companion bug
 description: Submit a bug with the Hunterer database or Companion app
 labels: ["hunterer/companion"]
 body:
+- type: markdown
+  attributes:
+    value: |
+      This form is for reporting errors seen on [the MTG Companion App](https://magic.wizards.com/en/products/companion-app) for iOS and Android, and the database behind it named *Hunterer*.
+
+      Hunterer and Companion are relatively new and have had a small number of issues noticed. You can help us keep track of them here so they're available for reference and to help us raise them to the attention of Wizards of the Coast.
+
+      If you have issues or questions about Scryfall itself or its API, you instead want [our contact form](https://scryfall.com/contact).
 - type: textarea
   id: problem
   attributes:
